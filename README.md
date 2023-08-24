@@ -7,7 +7,7 @@
 </head>
 <body>
     
-  <p>In this work, Github page recoded with minor changes</p>
+  <p>In this work, Github page recoded with minor changes.</p>
 <h2 id="built-with">Built With</h2>
   <ul>
     <li>HTML</li>
